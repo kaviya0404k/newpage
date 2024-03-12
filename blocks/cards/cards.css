@@ -1,9 +1,7 @@
-.card{
-  margin:auto;
-}
+
 .cards > ul {
   list-style: none;
-  margin: 0 ;
+  margin: auto ;
   padding: 0;
   display: grid;
 /*   grid-template-columns: repeat(auto-fill, minmax(278px, 1fr)); */
